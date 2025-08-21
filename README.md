@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-**MaliMamanConnect** is a backend API designed to support Malian mothers throughout their maternal and child health journey.
+**DenNiBa** is a backend API designed to support Malian mothers throughout their maternal and child health journey.
 It provides access to reliable health information, self-tracking tools, community support, and a directory of local healthcare services.
 
 This project is developed as part of the **ALX Back-End Capstone Project**.
@@ -37,13 +37,13 @@ This project is developed as part of the **ALX Back-End Capstone Project**.
 ## 🗂️ Project Structure
 
 ```
-MaliMamanConnectProject/
+DenNiBa/
 │── users/                 # User authentication & profiles
 │── health_education/      # Educational articles
 │── health_tracking/       # Health records
 │── community_support/     # Forum posts & comments
 │── service_directory/     # Providers & appointments
-│── MaliMamanConnectProject/  # Project settings & configs
+│── Den_Ba/  # Project settings & configs
 │── manage.py
 │── README.md
 ```
@@ -107,8 +107,8 @@ MaliMamanConnectProject/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/MaliMamanConnect.git
-   cd MaliMamanConnect
+   git clone https://github.com/yourusername/Den_Ba.git
+   cd Den_Ba
    ```
 
 2. **Create and activate a virtual environment**
@@ -149,8 +149,8 @@ MaliMamanConnectProject/
 
 * [x] ERD & API design
 * [x] Django project setup
-* [ ] Models implementation
-* [ ] CRUD endpoints with DRF
+* [x] Models implementation
+* [x] CRUD endpoints with DRF
 * [ ] Authentication with JWT
 * [ ] Unit tests
 * [ ] Deployment
@@ -159,4 +159,4 @@ MaliMamanConnectProject/
 
 ## 👨‍💻 Author
 
-**Kalifa SENOU** – ALX Back-End Engineering Student
+**Kalifa SENOU** – ALX Back-End Engineering Student (doc generete by AI)
